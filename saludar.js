@@ -1,5 +1,6 @@
 export function saludar(){
 
-	alert("Hola mundo");
+	let variable = 123456;
+	alert("Hola mundo: " + variable);
 	
 }
