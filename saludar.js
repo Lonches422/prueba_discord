@@ -1,4 +1,4 @@
-public function saludar(){
+export function saludar(){
 
 	alert("Hola mundo");
 	
